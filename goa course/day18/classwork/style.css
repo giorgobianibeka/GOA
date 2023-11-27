@@ -1,0 +1,15 @@
+body{
+    background-color: gray;
+    background-image: url(/images/download.jpg);
+    color: brown;
+}
+h1{
+color: blue;
+}
+b{
+    color: red;
+    background-color: yellow;
+}
+.elena {
+color: darkcyan;
+}
